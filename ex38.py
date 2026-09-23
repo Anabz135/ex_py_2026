@@ -1,3 +1,8 @@
 # Faça um algoritmo que peça um número correspondente a um determinado ano
 #e em seguida informe se este ano é ou não bissexto.
-print(10%3)
+
+an = int(input("Digite um ano"))
+
+bis = (an / 4) =
+
+if (an / 4 )
